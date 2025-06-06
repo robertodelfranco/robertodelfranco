@@ -10,5 +10,5 @@ Welcome to my GitHub profile!
 
 ---
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertodelfranco&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertodelfranco&layout=compact&theme=radical)
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertodelfranco&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertodelfranco&layout=default&theme=radical)
